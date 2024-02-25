@@ -1,8 +1,3 @@
-# React + Vite
+Simple Nike brand page.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-02-25 152901](https://github.com/hasnainayub689/nike_brand_page/assets/120710563/bf7d754b-8f9f-4ee8-aca8-2050aa193ad4)
